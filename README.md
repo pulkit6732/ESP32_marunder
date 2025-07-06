@@ -83,9 +83,6 @@ ble_scan         # Scan for BLE devices
 
 
 
-![Screenshot 2025-07-06 184306](https://github.com/user-attachments/assets/c80cceae-3845-4c12-b593-19952680ff4a)
-
-
 TROUBLESHOOT 
 | Problem                          | Solution                                        |
 | -------------------------------- | ----------------------------------------------- |
