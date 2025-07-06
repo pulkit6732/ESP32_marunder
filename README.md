@@ -46,7 +46,7 @@ Then verify:
 
 python3 --version
 
-git clone 
+git clone https://github.com/pulkit6732/ESP32_marunder.git
 
 
 # On Windows / Linux / MacOS / WSL:
